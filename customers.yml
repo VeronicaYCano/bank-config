@@ -1,0 +1,11 @@
+build:
+  version: "v0.0.2"
+
+support:
+  message: "Bienvenidos al sistema bancario (Clientes) Accenture"
+  contactInfo:
+    name: "Veronica Cano"
+    email: "veronica.cano@accenture.com"
+  phoneNumbers:
+    - "(57) 3217028450"
+    - "(57) 3217028456"

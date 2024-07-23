@@ -1,0 +1,11 @@
+build:
+  version: "v0.0.2"
+
+support:
+  message: "Bienvenidos al sistema Clientes de Accenture - Sistema en Produccion"
+  contactInfo:
+    name: "Product Owner - Clientes"
+    email: "product.owner@gmail.com"
+  phoneNumbers:
+    - "(57) 3217028540"
+    - "(57) 3217038412"

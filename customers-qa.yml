@@ -1,0 +1,11 @@
+build:
+  version: "v0.0.2"
+
+support:
+  message: "Bienvenidos al sistema Clientes de Accenture - Sistema en Pruebas"
+  contactInfo:
+    name: "QA Clientes"
+    email: "product.tester@gmail.com"
+  phoneNumbers:
+    - "(57) 3217029490"
+    - "(57) 3215043213"
